@@ -1,0 +1,52 @@
+Number of Stations : 6
+Number of Instruments : 4
+
+
+============================================
+==    Seismic Events Summary Report       ==
+============================================
+
+Station           Broadband           StrongMotion            ShortPeriod               Borehole                      
+
+CE.13882                0                     0                     0                     0                     
+CE.13162                0                     0                     0                     0                     
+CI.CHN                  0                     0                     0                     0                     
+CE.13068                0                     0                     0                     0                     
+CE.23511                0                     0                     0                     0                     
+CE.DLA                  0                     0                     0                     0                     
+
+============================================
+== Total number of events per Station ==
+============================================
+
+ Station                   Total 
+---------                -------- 
+
+CE.13882                     0
+CE.13162                     0
+CI.CHN                       0
+CE.13068                     0
+CE.23511                     0
+CE.DLA                       0
+
+============================================
+== Total number of events per instrument  ==
+============================================
+
+ Instrument                    Total 
+------------                -------- 
+
+Broadband                         0
+StrongMotion                      0
+ShortPeriod                       0
+Borehole                          0
+
+============================================
+==       statistics of the evenets       ==
+============================================
+
+Station with the most records is: CE.DLA with 0 events 
+Station with the least records is: CE.DLA with 0 events 
+
+Instrument with the most records is: Borehole with 0 events 
+Instrument with the least records is: Borehole with 0 events 

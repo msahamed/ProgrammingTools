@@ -1,0 +1,29 @@
+6 4
+CE.13882 CE.13162 CI.CHN CE.13068 CE.23511 CE.DLA
+Broadband StrongMotion ShortPeriod Borehole 
+CE.13882 StrongMotion -3
+CE.23511 Borehole -20
+CI.CHN ShortPeriod -1
+CE.13068 Broadband -2
+CE.23511 ShortPeriod -1
+CI.00000 HighGain -32
+CE.13882 Borehole -3
+CE.23511 ShortPeriod -2
+CI.CHN ShortPeriod -1
+CE.13068 Borehole -20
+CE.23511 ShortPeriod -10
+CI.00000 StrongMotion -32
+CE.13882 StrongMotion -3
+CE.23511 Borehole -20
+CI.CHN ShortPeriod -1
+CE.13068 Broadband -12
+CE.23511 ShortPeriod -1
+CI.00000 HighGain -32
+CE.13882 Borehole -3
+CE.23511 ShortPeriod -2
+CI.CHN ShortPeriod -1
+CE.13068 Borehole -20
+CE.23511 StrongMotion -10
+CI.00000 ShortPeriod -32
+
+

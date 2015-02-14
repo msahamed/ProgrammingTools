@@ -1,0 +1,17 @@
+
+# Compiler
+
+CC = g++
+
+# Flags to the compiler
+
+CFLAGS = -Wall
+
+all: hw
+
+hw: homework3.cpp
+	${CC} ${CFLAGS} homework3.cpp -o homework3
+
+clean:
+	rm -rf homework3
+
